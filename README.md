@@ -1,21 +1,29 @@
-# React + TypeScript + Vite
+# Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, modern, and responsive developer portfolio built using **React**, **TypeScript**, and **Vite**, deployed seamlessly on **Vercel**.
 
-While this project uses React, Vite supports many popular JS frameworks. [See all the supported frameworks](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
+## 🚀 Live Demo
 
-## Deploy Your Own
+Check out the live portfolio here:  
+👉 **[vite-react-topaz-theta-81.vercel.app](https://vite-react-topaz-theta-81.vercel.app)**
 
-Deploy your own Vite project with Vercel.
+---
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/framework-boilerplates/vite-react&template=vite-react)
+## 🛠️ Tech Stack
 
-_Live Example: https://vite-react-example.vercel.app_
+- **Frontend Library:** React 18
+- **Language:** TypeScript
+- **Build Tool:** Vite
+- **Deployment Platform:** Vercel
+- **Styling:** Custom Modern Dark-themed CSS
 
-### Deploying From Your Terminal
+---
 
-You can deploy your new Vite project with a single command from your terminal using [Vercel CLI](https://vercel.com/download):
+## 📌 Features
 
-```shell
-$ vercel
-```
+- **Responsive Design:** Optimized for mobile, tablet, and desktop views.
+- **Project Showcase:** Highlights key projects such as **EduPulse LMS** and **Food Expiry Tracker**.
+- **Skills Highlight:** Modern card-based UI for quick tech stack scanning.
+- **Fast Performance:** Lightning-fast page loads powered by Vite and Vercel.
+
+---
